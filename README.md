@@ -1,7 +1,7 @@
 ### Hi there, I'm Leonardo Soares ! 
 
 - 🔭 I'm currently looking for new opportunities 
-- 🌱 I’m currently learning JavaSCript, HTML, CSS, MySQL
+- 🌱 I’m currently learning JavaSCript, Node.js, HTML, CSS, MySQL
 - 📫 How to reach me: leosoaresg@outlook.com
 - 😄 Pronouns: He/Him
 
@@ -12,10 +12,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+
           
 </div>
 
